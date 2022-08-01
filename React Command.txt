@@ -1,0 +1,8 @@
+To create react app
+npx create-react-app foldername;
+
+To add react router dom
+npm i react-router-dom@v6
+
+To start the project
+npm start

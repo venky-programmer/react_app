@@ -1,0 +1,9 @@
+POST http://localhost:4000/app/contacted
+Content-Type: application/json
+
+{
+  "name": "Venky",
+  "email": "venky@gmail.com",
+  "subject": "Enquiry",
+  "details":"jhfsiudfhsdibf idfhkjsd isdhfiuasgfoi"
+}
